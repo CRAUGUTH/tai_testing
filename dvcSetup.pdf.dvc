@@ -1,0 +1,5 @@
+outs:
+- md5: b3e2704e538e8b78c587e723ab9de4d6
+  size: 52995
+  hash: md5
+  path: dvcSetup.pdf
